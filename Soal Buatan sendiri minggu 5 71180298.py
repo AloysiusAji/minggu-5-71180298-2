@@ -2,7 +2,7 @@
 #71180298
 
 '''membuat program penghitungan volume bangun ruang menggunakan perulangan yang terdiri dari
-kubus, balok, bola'''
+kubus = sisi^3, balok = p * l * t, bola = 4/3 * 3.14 * jari**3 '''
 
 def bangunRuang():
     def menu():
